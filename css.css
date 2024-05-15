@@ -1,0 +1,42 @@
+
+li {
+    margin-top:20px;
+    margin-left: 10px;
+}
+
+#l2 {
+    margin-left: 350px;
+}
+
+#b1 {
+    margin-left:340px;
+    background-color: white;
+    cursor: pointer
+}  
+
+#lt{
+
+  color: #f2f2f2;
+  text-align:initial;
+  font-size: 20px;
+}
+
+#l4 {
+    color: #f2f2f2;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#v {
+    background-color:rgb(183, 176, 176);
+}
+
+#read {
+     background-color: aliceblue; 
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
